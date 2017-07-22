@@ -1,0 +1,1315 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/php7",
+		"/C/xampp/htdocs/php_zp"
+	],
+	"last_version": 3126,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"s",
+						"slick-theme.css"
+					],
+					[
+						"a",
+						"assets"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"col-md",
+						"col-md-12 \tBootstrap 4 Class"
+					],
+					[
+						"col-",
+						"col-sm-9 \tBootstrap 3 Class"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"img-",
+						"img-responsive"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"col-x",
+						"col-xs-12 \tBootstrap 3 Class"
+					],
+					[
+						"align-conte",
+						"align-content-center"
+					],
+					[
+						"for",
+						"form-group \tBootstrap 3 Class"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"nav",
+						"navbar-left \tBootstrap 3 Class"
+					],
+					[
+						"align-",
+						"align-content-center"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"conte",
+						"container \tBootstrap 3 Class"
+					],
+					[
+						"jus",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"justi",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"navbar-fix",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"navbar-",
+						"navbar-static-top \tBootstrap 3 Class"
+					],
+					[
+						"nav-",
+						"navbar-left \tBootstrap 3 Class"
+					],
+					[
+						"img",
+						"img-rounded \tBootstrap 3 Class"
+					],
+					[
+						"wit",
+						"width"
+					],
+					[
+						"container",
+						"container \tBootstrap 4 Class"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"jumbotr",
+						"jumbotron-fluid \tBootstrap 4 Class"
+					],
+					[
+						"navbar-f",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"col-lg",
+						"col-lg-4 \tBootstrap 3 Class"
+					],
+					[
+						"navbar",
+						"navbar \tBootstrap 4 Class"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"des_",
+						"des_login\t(php7)"
+					],
+					[
+						"json",
+						"json_decode〔function〕"
+					],
+					[
+						"http_code",
+						"http_response_code()"
+					],
+					[
+						"reg",
+						"registrarVenda\t(cadastro.php)"
+					],
+					[
+						"name",
+						"nameClass"
+					],
+					[
+						"spc",
+						"spl_autoload_call()"
+					],
+					[
+						"nome",
+						"nomeClasse"
+					],
+					[
+						"nume",
+						"$numero\tmixed"
+					],
+					[
+						"funn",
+						"function"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"exo",
+						"exibir〔function〕"
+					],
+					[
+						"arra",
+						"array\t(php7)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "reide",
+				"selected_items":
+				[
+					[
+						"reide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reid",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reit",
+						"SublimeLinter: Enable Inline Tooltips"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"reiden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package c",
+						"Package Control: Disable Package"
+					],
+					[
+						"color s",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color subli",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"boxy t",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"b",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"ss php",
+						"Set Syntax: PHP"
+					],
+					[
+						"ss txt",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"new file ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"ident l",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ss text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ss ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"ss sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"colosublme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"save",
+					"asdd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/bootstrap/assets/css/bootstrap-theme.css",
+				"/C/xampp/htdocs/bootstrap/index.php",
+				"/C/xampp/htdocs/bootstrap/assets/css/carousel.css",
+				"/C/xampp/htdocs/php7/pdo/exemplo3.php",
+				"/C/xampp/php/php.ini",
+				"/C/xampp/htdocs/php7/autoload/exemplo1.php",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/php7/if/exemplo1.php",
+				"/C/xampp/htdocs/php7/funcoes/exemplo10.php",
+				"/C/xampp/htdocs/php7/outros/php7",
+				"/C/xampp/htdocs/php7/mysqli/exemplo2.php",
+				"/C/xampp/htdocs/php7/pdo/exemplo1.php",
+				"/C/Users/Thiago Scheidt/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/Flatland_Monokai.tmTheme",
+				"/C/xampp/htdocs/aluraphp1/remover.php",
+				"/C/Users/Thiago Scheidt/Desktop/vendor/autoload.php",
+				"/C/xampp/htdocs/aluraphp1/add-produto.php",
+				"/C/xampp/htdocs/aluraphp1/phpinfo.php",
+				"/C/xampp/htdocs/aluraphp1/lista_produto.php",
+				"/C/xampp/htdocs/aluraphp1/index.php",
+				"/C/xampp/htdocs/aluraphp1/conexao.php",
+				"/C/xampp/htdocs/php7/aula01.php",
+				"/C/xampp/htdocs/post/index2.php",
+				"/C/xampp/htdocs/post/index.php",
+				"/C/xampp/htdocs/post/postAcceptor.php",
+				"/C/xampp/htdocs/post/index - Copia.php",
+				"/C/xampp/htdocs/php7/namespace/index.php",
+				"/C/xampp/htdocs/php7/namespace/config.php",
+				"/C/xampp/htdocs/php7/namespace/class/cliente/cadastro.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.644/2014_04_24_110151_create_oauth_scopes_table.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.451/server.php",
+				"/C/xampp/htdocs/php7/namespace/class/cadastro.php",
+				"/C/xampp/htdocs/php7/autoload/exemplo2.php",
+				"/C/xampp/htdocs/php7/autoload/abstratas/automovel.php",
+				"/C/xampp/htdocs/php7/autoload/delrey.php",
+				"/C/xampp/htdocs/php7/abstrata/exemplo1.php",
+				"/C/xampp/htdocs/php7/polimorfismo/exemplo1.php",
+				"/C/xampp/htdocs/php7/interface/exemplo1.php",
+				"/C/xampp/htdocs/php7/abstrata/index1.php",
+				"/C/xampp/htdocs/php7/heranca/exemplo1.php",
+				"/C/xampp/htdocs/php7/encapsulamento/exemplo2.php",
+				"/C/xampp/htdocs/php7/encapsulamento/exemplo1.php",
+				"/C/xampp/htdocs/php7/POO/exemplo1.php",
+				"/C/xampp/htdocs/php7/POO/exemplo4.php",
+				"/C/xampp/htdocs/php7/POO/index.php",
+				"/C/xampp/htdocs/017_PHP_Basico_OPATR/PHP_Basico/index.php",
+				"/C/xampp/htdocs/017_PHP_Basico_OPATR/PHP_Basico/Api/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.456/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.328/produtos.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.228/db.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.264/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.112/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.071/home.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.497/site.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.053/index.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.521/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.703/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.146/index.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.354/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.857/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.431/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.231/index.php",
+				"/C/xampp/htdocs/php7/POO/POO/index.php",
+				"/C/xampp/htdocs/php7/POO/exemplo2.php",
+				"/C/xampp/htdocs/php7/POO/exemplo3.php",
+				"/C/xampp/htdocs/php7/constantes/exemplo1.php",
+				"/C/xampp/htdocs/php_zp/outros/php_zp.txt",
+				"/C/xampp/htdocs/wordpress/wp-admin/revision.php",
+				"/C/xampp/htdocs/wordpress/wp-activate.php",
+				"/C/xampp/htdocs/wordpress/wp-login.php",
+				"/C/xampp/htdocs/wordpress/index.php"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 165.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"carousel",
+					"caro",
+					"carousel",
+					"indicators",
+					"1e53a8",
+					"relative",
+					"navbar-brand",
+					"navbar-brabd",
+					"brand",
+					"hover",
+					"dll",
+					"sqlsrv",
+					"extension",
+					"extensions",
+					";\n",
+					"Cpf",
+					"();\n",
+					";\n",
+					"}\n",
+					"\n\t",
+					"mssql",
+					"pdo",
+					"exten"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\t\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 893.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"s",
+						"slick-theme.css"
+					],
+					[
+						"a",
+						"assets"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"col-md",
+						"col-md-12 \tBootstrap 4 Class"
+					],
+					[
+						"col-",
+						"col-sm-9 \tBootstrap 3 Class"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"img-",
+						"img-responsive"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"col-x",
+						"col-xs-12 \tBootstrap 3 Class"
+					],
+					[
+						"align-conte",
+						"align-content-center"
+					],
+					[
+						"for",
+						"form-group \tBootstrap 3 Class"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"nav",
+						"navbar-left \tBootstrap 3 Class"
+					],
+					[
+						"align-",
+						"align-content-center"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"conte",
+						"container \tBootstrap 3 Class"
+					],
+					[
+						"jus",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"justi",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"navbar-fix",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"navbar-",
+						"navbar-static-top \tBootstrap 3 Class"
+					],
+					[
+						"nav-",
+						"navbar-left \tBootstrap 3 Class"
+					],
+					[
+						"img",
+						"img-rounded \tBootstrap 3 Class"
+					],
+					[
+						"wit",
+						"width"
+					],
+					[
+						"container",
+						"container \tBootstrap 4 Class"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"jumbotr",
+						"jumbotron-fluid \tBootstrap 4 Class"
+					],
+					[
+						"navbar-f",
+						"navbar-fixed-top \tBootstrap 3 Class"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"col-lg",
+						"col-lg-4 \tBootstrap 3 Class"
+					],
+					[
+						"navbar",
+						"navbar \tBootstrap 4 Class"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"des_",
+						"des_login\t(php7)"
+					],
+					[
+						"json",
+						"json_decode〔function〕"
+					],
+					[
+						"http_code",
+						"http_response_code()"
+					],
+					[
+						"reg",
+						"registrarVenda\t(cadastro.php)"
+					],
+					[
+						"name",
+						"nameClass"
+					],
+					[
+						"spc",
+						"spl_autoload_call()"
+					],
+					[
+						"nome",
+						"nomeClasse"
+					],
+					[
+						"nume",
+						"$numero\tmixed"
+					],
+					[
+						"funn",
+						"function"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"exo",
+						"exibir〔function〕"
+					],
+					[
+						"arra",
+						"array\t(php7)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/xampp/htdocs/php7/outros/php7",
+					"settings":
+					{
+						"buffer_size": 10934,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/bootstrap/index.php",
+					"settings":
+					{
+						"buffer_size": 6354,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Pro Evolution Soccer 2017/PTE/Log/Enhancements.ini",
+					"settings":
+					{
+						"buffer_size": 10,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "reide",
+				"selected_items":
+				[
+					[
+						"reide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reid",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reit",
+						"SublimeLinter: Enable Inline Tooltips"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"reiden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package c",
+						"Package Control: Disable Package"
+					],
+					[
+						"color s",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color subli",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"boxy t",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"b",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"ss php",
+						"Set Syntax: PHP"
+					],
+					[
+						"ss txt",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"new file ",
+						"File: New File Relative to Current View"
+					],
+					[
+						"ident l",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ss text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ss ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"box",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"ss sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"colosublme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"save",
+					"asdd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/xampp/htdocs/php7",
+				"/C/xampp/htdocs/php7/date",
+				"/C/xampp/htdocs/php7/outros",
+				"/C/xampp/htdocs/php7/pdo"
+			],
+			"file_history":
+			[
+				"/C/xampp/htdocs/bootstrap/assets/css/bootstrap-theme.css",
+				"/C/xampp/htdocs/bootstrap/index.php",
+				"/C/xampp/htdocs/bootstrap/assets/css/carousel.css",
+				"/C/xampp/htdocs/php7/pdo/exemplo3.php",
+				"/C/xampp/php/php.ini",
+				"/C/xampp/htdocs/php7/autoload/exemplo1.php",
+				"/C/xampp/htdocs/index.php",
+				"/C/xampp/htdocs/php7/if/exemplo1.php",
+				"/C/xampp/htdocs/php7/funcoes/exemplo10.php",
+				"/C/xampp/htdocs/php7/outros/php7",
+				"/C/xampp/htdocs/php7/mysqli/exemplo2.php",
+				"/C/xampp/htdocs/php7/pdo/exemplo1.php",
+				"/C/Users/Thiago Scheidt/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/Flatland_Monokai.tmTheme",
+				"/C/xampp/htdocs/aluraphp1/remover.php",
+				"/C/Users/Thiago Scheidt/Desktop/vendor/autoload.php",
+				"/C/xampp/htdocs/aluraphp1/add-produto.php",
+				"/C/xampp/htdocs/aluraphp1/phpinfo.php",
+				"/C/xampp/htdocs/aluraphp1/lista_produto.php",
+				"/C/xampp/htdocs/aluraphp1/index.php",
+				"/C/xampp/htdocs/aluraphp1/conexao.php",
+				"/C/xampp/htdocs/php7/aula01.php",
+				"/C/xampp/htdocs/post/index2.php",
+				"/C/xampp/htdocs/post/index.php",
+				"/C/xampp/htdocs/post/postAcceptor.php",
+				"/C/xampp/htdocs/post/index - Copia.php",
+				"/C/xampp/htdocs/php7/namespace/index.php",
+				"/C/xampp/htdocs/php7/namespace/config.php",
+				"/C/xampp/htdocs/php7/namespace/class/cliente/cadastro.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.644/2014_04_24_110151_create_oauth_scopes_table.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.451/server.php",
+				"/C/xampp/htdocs/php7/namespace/class/cadastro.php",
+				"/C/xampp/htdocs/php7/autoload/exemplo2.php",
+				"/C/xampp/htdocs/php7/autoload/abstratas/automovel.php",
+				"/C/xampp/htdocs/php7/autoload/delrey.php",
+				"/C/xampp/htdocs/php7/abstrata/exemplo1.php",
+				"/C/xampp/htdocs/php7/polimorfismo/exemplo1.php",
+				"/C/xampp/htdocs/php7/interface/exemplo1.php",
+				"/C/xampp/htdocs/php7/abstrata/index1.php",
+				"/C/xampp/htdocs/php7/heranca/exemplo1.php",
+				"/C/xampp/htdocs/php7/encapsulamento/exemplo2.php",
+				"/C/xampp/htdocs/php7/encapsulamento/exemplo1.php",
+				"/C/xampp/htdocs/php7/POO/exemplo1.php",
+				"/C/xampp/htdocs/php7/POO/exemplo4.php",
+				"/C/xampp/htdocs/php7/POO/index.php",
+				"/C/xampp/htdocs/017_PHP_Basico_OPATR/PHP_Basico/index.php",
+				"/C/xampp/htdocs/017_PHP_Basico_OPATR/PHP_Basico/Api/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.456/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.328/produtos.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.228/db.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.264/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.112/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.071/home.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.497/site.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.053/index.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.521/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.703/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.146/index.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.354/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.857/configuracao.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.431/api.php",
+				"/C/Users/Thiago Scheidt/AppData/Local/Temp/Rar$DIa0.231/index.php",
+				"/C/xampp/htdocs/php7/POO/POO/index.php",
+				"/C/xampp/htdocs/php7/POO/exemplo2.php",
+				"/C/xampp/htdocs/php7/POO/exemplo3.php",
+				"/C/xampp/htdocs/php7/constantes/exemplo1.php",
+				"/C/xampp/htdocs/php_zp/outros/php_zp.txt",
+				"/C/xampp/htdocs/wordpress/wp-admin/revision.php",
+				"/C/xampp/htdocs/wordpress/wp-activate.php",
+				"/C/xampp/htdocs/wordpress/wp-login.php",
+				"/C/xampp/htdocs/wordpress/index.php"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 165.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"carousel",
+					"caro",
+					"carousel",
+					"indicators",
+					"1e53a8",
+					"relative",
+					"navbar-brand",
+					"navbar-brabd",
+					"brand",
+					"hover",
+					"dll",
+					"sqlsrv",
+					"extension",
+					"extensions",
+					";\n",
+					"Cpf",
+					"();\n",
+					";\n",
+					"}\n",
+					"\n\t",
+					"mssql",
+					"pdo",
+					"exten"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\t\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\xampp\\htdocs\\php7"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\php_zp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/php7/outros/php7",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10934,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9794,
+										9794
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai_thiago (SL).tmTheme",
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 452.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/bootstrap/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6354,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4469,
+										4469
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai_thiago (SL).tmTheme",
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1231.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Pro Evolution Soccer 2017/PTE/Log/Enhancements.ini",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										10
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,674,553,135,1462",
+			"project": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai_thiago (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Google Dictionary",
+		"Restart",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"soda_folder_icons": true,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_sky": true,
+	"theme_bar": true,
+	"theme_icons_materialized": true,
+	"theme_minimap_viewport_opacity_xlw": true,
+	"theme_sidebar_close_always_visible": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_font_md": true,
+	"theme_sidebar_font_sm": true,
+	"theme_sidebar_font_xl": true,
+	"theme_sidebar_font_xs": true,
+	"theme_sidebar_icon_saturation_hg": true,
+	"theme_size_lg": true,
+	"theme_statusbar_label_bold": true,
+	"theme_statusbar_size_xs": true,
+	"theme_tab_label_bold": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_separator": true,
+	"theme_tab_size_md": true,
+	"theme_tab_size_xl": true,
+	"theme_unified": true
+}
