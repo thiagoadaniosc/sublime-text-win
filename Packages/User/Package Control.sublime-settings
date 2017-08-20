@@ -48,6 +48,7 @@
 		"PHP Companion",
 		"PHP Completions Kit",
 		"PHP Syntax Checker",
+		"PHP-Twig",
 		"PhpDoc",
 		"PHPIntel",
 		"Restart",
@@ -61,6 +62,8 @@
 		"Theme - Phoenix",
 		"Theme - Piatto",
 		"Theme - Soda",
-		"View In Browser"
+		"UIkit autocomplete",
+		"View In Browser",
+		"WordPress Completions"
 	]
 }
